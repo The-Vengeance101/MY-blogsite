@@ -44,7 +44,7 @@ This project was collaboratively developed by:
   Worked on backend logic, database design and integration, session and user systems, author/admin dashboards, and implemented key UI features.
 
 - **Manas Ahir** — Frontend Designer & Developer  
-  Designed and implemented the overall layout, page structure, visual styling, dark mode, and responsive user interface using HTML, CSS, and Bootstrap.
+  Designed and implemented the overall layout, page structure, visual styling, typography, responsive user interface using HTML, CSS, and Bootstrap, and overall interface consistency and aesthetics.
 
 Special thanks to the open-source technologies used in this project:
 - PHP, MySQL, and XAMPP  
